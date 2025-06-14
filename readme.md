@@ -1,4 +1,4 @@
-# 🧠 algo_learn — Mastering Algorithms & Data Structures in Go
+# 🧠 algo_learn — Mastering DSA in Go
 
 This is my **personal deep dive into algorithms and data structures**, implemented in Go, designed for both **mastery** and **interview readiness**.  
 The project is based on systematic study, problem-solving, and pattern recognition — with annotated code, categorized modules, and a custom-built pattern cheat sheet.
