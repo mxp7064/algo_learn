@@ -1,0 +1,2 @@
+zapravo ne trebas ni jednu od ovih - cijela prica sa KNN je vise vezana uz ML/AIi, moze se mozda jedino pojaviti
+kao neka diskusija tijekom intervjua (usporedba mogucih rjesenja za neki problem i sl. - npr zasto ne bi koristili KNN ovdje?)
