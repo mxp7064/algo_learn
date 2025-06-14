@@ -9,7 +9,9 @@ The project is based on systematic study, problem-solving, and pattern recogniti
 
 ### 📘 `grokking_algorithms/`
 - Exercises & solutions from [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
-- Reinforced by translating examples into Go
+  - Python versions are from the book
+  - For each, I implemented an equivalent Go version
+- I also added some algorithms which were only mentioned in the book and some additional examples
 
 ### 🛠 `my_algos/`
 - Manually implemented & tested solutions to many algorithm problems
